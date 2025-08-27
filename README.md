@@ -1,4 +1,4 @@
-📊 Shopify Sales & Funnel Report (Power BI)
+## 📊 Shopify Sales & Funnel Report (Power BI)
 
 ## 1.Project Overview
 This project explores **Shopify sales data** through an interactive **Power BI dashboard**.  
